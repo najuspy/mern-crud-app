@@ -45,7 +45,7 @@ To run this project locally, you need to have the following installed:
 ## 🚀 Installation and Setup
 
 1. Clone the repository
-  git clone https://github.com/yourusername/mern-crud-app.git
+  git clone https://github.com/najuspy/mern-crud-app.git
   cd mern-crud-app
 
 2. Install dependencies for backend and frontend
